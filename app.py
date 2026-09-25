@@ -72,4 +72,4 @@ with diag_col2:
         st.success("Vida útil aceptable: Los codos resistirán un tiempo de operación adecuado.")
 
 st.divider()
-st.markdown("<div style='text-align: center; color: gray;'>Software desarrollado por Giovanni Nuño</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: gray;'>Software desarrollado por  F.Nuño</div>", unsafe_allow_html=True)
